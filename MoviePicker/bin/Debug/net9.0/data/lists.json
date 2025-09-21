@@ -1,0 +1,41 @@
+[
+  {
+    "ID": "57c9b06e-3fd8-41cb-b861-c794f2f4d692",
+    "username": "Jan",
+    "movies": [
+      {
+        "title": "hello",
+        "posterUrl": "",
+        "rank": 1
+      },
+      {
+        "title": "awefawe",
+        "posterUrl": "",
+        "rank": 2
+      }
+    ],
+    "CreatedAt": "2025-09-21T17:35:02.7960126Z"
+  },
+  {
+    "ID": "4b0542b7-c2c3-4c33-9596-ab13880c8a00",
+    "username": "Josef",
+    "movies": [
+      {
+        "title": "Ori",
+        "posterUrl": "",
+        "rank": 1
+      },
+      {
+        "title": "Ori 2",
+        "posterUrl": "",
+        "rank": 2
+      },
+      {
+        "title": "Geometry dash",
+        "posterUrl": "",
+        "rank": 3
+      }
+    ],
+    "CreatedAt": "2025-09-21T17:42:20.5497663Z"
+  }
+]

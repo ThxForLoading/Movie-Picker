@@ -26,3 +26,17 @@ C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0
 C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\MoviePicker.pdb
 C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\MoviePicker.genruntimeconfig.cache
 C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\ref\MoviePicker.dll
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\MoviePicker.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\MoviePicker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\MoviePic.8A3AB183.Up2Date
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\lists.json
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\MoviePicker.staticwebassets.runtime.json
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\compressed\45jwahuya8-0f4xere7ju.gz
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\compressed\745uqjin3o-cqy9i5x15j.gz
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\obj\Debug\net9.0\compressed\mw3ok3tvfi-zaqrc3yur8.gz
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\client\package-lock.json
+C:\Users\janka\Desktop\net_MoviePicker\Movie-Picker\MoviePicker\bin\Debug\net9.0\client\package.json
